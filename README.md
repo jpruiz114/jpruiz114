@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-home-page.herokuapp.com/index.php" />
+      <img src="https://github-home-page.herokuapp.com/index.php?t=123456789" />
     </td>
   </tr>
 </table>
