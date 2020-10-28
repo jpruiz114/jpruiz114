@@ -1,4 +1,4 @@
-<table style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
