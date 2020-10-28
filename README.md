@@ -1,4 +1,4 @@
-<table border="2" width="0">
+<table border="0" width="0">
   <tr>
     <td>
       <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" />
