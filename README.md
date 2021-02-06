@@ -10,9 +10,11 @@
       <p>Pronouns: He, Him, His, Himself</p>
     </td>
   </tr>
+  <!--
   <tr>
     <td colspan="2">
       <img alt=":)" src="https://github-home-page.herokuapp.com#1" />
     </td>
   </tr>
+  -->
 </table>
