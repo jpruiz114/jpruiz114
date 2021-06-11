@@ -12,7 +12,15 @@
   </tr>
   <tr>
     <td>
+      <p>Some metrics from <i>github-readme-stats.vercel.app</i><p>
+    </td>
+    <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=jpruiz114" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Some metrics from <i>github-readme-streak-stats.herokuapp.com</i></p>
     </td>
     <td align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpruiz114" />
