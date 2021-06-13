@@ -26,4 +26,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpruiz114" />
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github.com/jpruiz114/jpruiz114/blob/43250f81ec4b38da05a1eb0a731bb88a0d4c60fb/nyan-cat.gif" />
+    </td>
+  </tr>
 </table>
