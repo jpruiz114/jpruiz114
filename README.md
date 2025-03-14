@@ -22,7 +22,7 @@
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poYXdraTR0bTcwcjY2NGx4YWFmaWEyYWd1eWM5dmN6NzI4Y2hmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lMoyThpKynde/giphy.gif" />
     </td>
     <td>
-      <p>I am also working on a few simulation projects. Check one of them here: <a href="https://jeanpaulruizvallejo.com/physics-simulations/bridge-simulation-spring-mass-model/"/>Bridge Simulation</a></p>
+      <p>I am also working on a few simulation projects.<br>Check one of them here: <a href="https://jeanpaulruizvallejo.com/physics-simulations/bridge-simulation-spring-mass-model/"/>Bridge Simulation</a></p>
     </td>
   </tr>
 </table>
