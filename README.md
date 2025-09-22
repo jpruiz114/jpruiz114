@@ -25,10 +25,5 @@
       <p>I am also working on a few simulation projects.<br>Check one of them here: <a href="https://jeanpaulruizvallejo.com/physics-simulations/bridge-simulation-spring-mass-model/"/>Bridge Simulation</a></p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2LawezPeJhN4AWuSB0GtAU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-    </td>
-  </tr>
 </table>
 <span><q>The best portion of a good man's life is his little, nameless, unremembered acts of kindness and love.</q></span>
