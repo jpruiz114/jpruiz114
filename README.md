@@ -29,6 +29,15 @@
   </tr>
   <tr>
     <td>
+      <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" />
+    </td>
+    <td>
+      <p>I've built DevOps tools for automated code quality analysis and security scanning.</p>
+      <p>Check out my SonarQube automation suite: <a href="https://github.com/jpruiz114/sonarqube-scanner-container">SonarQube Scanner Container</a> and <a href="https://github.com/jpruiz114/sonarqube-project-scanner">SonarQube Project Scanner</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <p>Some metrics from <i>github-readme-stats.vercel.app</i></p>
     </td>
     <td align="center">
