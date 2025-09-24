@@ -11,14 +11,6 @@
   </tr>
   <tr>
     <td>
-      <p>Some metrics from <i>github-readme-stats.vercel.app</i></p>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jpruiz114" />
-    </td>
-  </tr>
-  <tr>
-    <td>
       <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3poYXdraTR0bTcwcjY2NGx4YWFmaWEyYWd1eWM5dmN6NzI4Y2hmNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9lMoyThpKynde/giphy.gif" />
     </td>
     <td>
@@ -30,8 +22,17 @@
       <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" />
     </td>
     <td>
-      <p>I'm passionate about machine learning education and have created educational neural network implementations.<br>Explore my step-by-step learning modules: <a href="https://github.com/jpruiz114/neural-network-tests">Neural Network Tests</a></p>
+      <p>I'm passionate about machine learning education and have created educational neural network implementations.</p>
+      <p>Explore my step-by-step learning modules: <a href="https://github.com/jpruiz114/neural-network-tests">Neural Network Tests</a></p>
       <p>This project demonstrates fundamental ML concepts using NumPy and PyTorch, from simple logical gates to complex architectures and mathematical foundations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>Some metrics from <i>github-readme-stats.vercel.app</i></p>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=jpruiz114" />
     </td>
   </tr>
 </table>
