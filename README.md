@@ -1,3 +1,7 @@
+<span>Thanks for visiting my GitHub profile!</span>
+
+<hr>
+
 <!-- Greeting first -->
 <table cellspacing="0" cellpadding="0">
   <tr>
@@ -5,7 +9,6 @@
       <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" alt="Wave hello animation" />
     </td>
     <td>
-      <p>Thanks for visiting my GitHub profile!</p>
       <p>I build full-stack web apps (Ruby/Sinatra, PHP/Composer, JavaScript/Webpack) with a strong focus on testing and code quality (ATDD/BDD with RSpec, Cucumber, and SonarQube). I also work on high-performance computing (C/C++/CUDA), machine learning in Python, and retro game development (NES in C, ActionScript 3). Projects include image processing (Java), physics simulations (JavaScript), web scraping (Java/Kotlin with Gradle), and 3D graphics (STL). My work spans embedded systems to modern web apps across enterprise, scientific, and creative domains.</p>
     </td>
   </tr>
