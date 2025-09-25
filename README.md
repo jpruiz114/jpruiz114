@@ -1,6 +1,6 @@
-<span>Thanks for visiting my GitHub profile!</span>
-
 <hr>
+
+<span>Thanks for visiting my GitHub profile!</span>
 
 <!-- Greeting first -->
 <table cellspacing="0" cellpadding="0">
