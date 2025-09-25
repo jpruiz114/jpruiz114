@@ -45,4 +45,9 @@
     </td>
   </tr>
 </table>
+
+<span>My gists: https://gist.github.com/jpruiz114</span>
+
+<hr>
+
 <span><q>The best portion of a good man's life is his little, nameless, unremembered acts of kindness and love.</q></span>
