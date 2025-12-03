@@ -51,15 +51,6 @@
       </p>
     </td>
   </tr>
-  
-  <tr>
-    <td>
-      <p>Some metrics via <i>github-readme-stats.vercel.app</i></p>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=jpruiz114" alt="GitHub readme stats for jpruiz114" />
-    </td>
-  </tr>
 </table>
 
 <p>My gists:
